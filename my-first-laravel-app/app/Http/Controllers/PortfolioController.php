@@ -18,7 +18,7 @@ class PortfolioController extends Controller
 
             'name' => 'Banal, Lujille M.',
 
-            'title' => 'Full Stack Web Developer',
+            'title' => 'IT Student & Aspiring Game Developer',
 
             'email' => 'lujillebanal08@gmail.com',
 
@@ -26,11 +26,11 @@ class PortfolioController extends Controller
 
             'location' => 'PH, Manila',
 
-            'bio' => 'Passionate web developer with 5+ years of experience...',
+            'bio' => 'An IT Student passionate about game developer',
 
             'profile_image' => 'https://lh3.googleusercontent.com/a/ACg8ocLqN-tZQOcJ_0yAjg1i0dWSxpsGARWjQuLq6kMoVIv2RYmOZ1I=s288-c-no',
 
-            'skills' => ['Laravel', 'PHP', 'JavaScript', 'HTML5', 'CSS3'],
+            'skills' => ['Laravel', 'PHP', 'C#', 'HTML5', 'CSS3'],
 
             'projects' => ['Laravel', 'PHP', 'JavaScript', 'HTML5', 'CSS3'], // Project data
 
